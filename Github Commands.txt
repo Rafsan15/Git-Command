@@ -1,5 +1,5 @@
 $ git init
-$ git remote add origin https://github.com/Rafsan15/Test.git
+$ git remote add origin (Clone Link exmp: https://github.com/Rafsan15/Test.git )
 $ git remote -v
 $ git status
 $ git add .
