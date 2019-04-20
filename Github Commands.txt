@@ -1,0 +1,19 @@
+$ git init
+$ git remote add origin https://github.com/Rafsan15/Test.git
+$ git remote -v
+$ git status
+$ git add .
+$ git commit -am "New"
+
+
+optional !!!!!
+$ git config --global user.name "Rafsan15"
+$ git config --global user.email "rafsanjany26@gmail.com"
+$ git commit -am "New"
+
+!!!!!!
+
+$ git push origin master --force
+$ ls
+$ git rm a.txt
+
